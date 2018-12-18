@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+
+    <string-array name="color_names">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Violeta</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
